@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="info">Info</string>
+    <string name="none">None</string>
+    <string name="author" translatable="false">Иванюк Иван, ФЭИС, АС-64</string>
+    <string name="inf">Inf</string>
+</resources>
